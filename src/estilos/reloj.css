@@ -1,0 +1,20 @@
+.contenedor-reloj {
+    height: 250px;
+    width: 150px;
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #e66814;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    border: 4px solid rgb(6, 194, 246);
+    margin: 4px;
+    
+  }
+
+  .reloj{
+    font-size: 150px;
+  }

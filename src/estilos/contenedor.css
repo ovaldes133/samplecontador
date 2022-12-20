@@ -1,0 +1,25 @@
+.contenedor-numero {
+    height: 250px;
+    width: 150px;
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    
+    background-color: #0c1012;
+    color: rgb(237, 147, 13);
+    border-radius: 25px;
+    border: 4px solid rgb(162, 239, 7);
+    margin: 4px;
+    
+  }
+  .numeros{
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+    justify-content: center;
+  }
+  .numero{
+    font-size: 150px;
+  }
